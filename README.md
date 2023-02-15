@@ -1,4 +1,13 @@
 # curso-marchine-learning
 Dia 14 febrero 2023
 Estamos utilizando el programa python que es el lenguaje mas utilizado y de gran alto nivel.
-Se esta aplicando datos .... se ha borrado todo lo que escribi... guardare mas adelante
+Estamos aprendiendo a programar, ejecutando y utilizando muchas funciones, operaciones matematicas, funciones print, input, float entre otras.
+Este lenguaje de programacion es dificil para una persona que empieza desde cero que no ha visto este mundo nunca y cuesta un poco.
+
+Dia 15 febrero 2023
+Estuvimos avanzando con la materia haciendo ejercicios con algo de relacion de sql y ejercicios de plataformas de cohetes de SpaceX.
+Estos codigos y funciones tales como bucles, while, for es complicado entender.
+Luis explica muy bien, pero lo dificil es comprender y entender toda esta nueva materia.
+Aplicamos funciones de lista y rangos.
+Introduciomos tablas dentro de python y ejecutamos sobre ellas.
+
