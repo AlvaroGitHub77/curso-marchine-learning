@@ -11,7 +11,7 @@ Luis explica muy bien, pero lo dificil es comprender y entender toda esta nueva 
 Aplicamos funciones de lista y rangos.
 Introduciomos tablas dentro de python y ejecutamos sobre ellas.
 
-Dia 16 Febrero 2023
+Dia 15 Febrero 2023
 Vimos en la clase introduccion de a machine learning con scikit-learn y prophet.
 se basa en modelos predictivos y futuros donde machine learning aprende de los datos que se obtiene de fuentes a traves tambien de imagenes y otras fuentes.
 Con scikit-learn es una libreria con modelos predictivos que aprende de datos etiquetados.
