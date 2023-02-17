@@ -16,3 +16,7 @@ Vimos en la clase introduccion de a machine learning con scikit-learn y prophet.
 se basa en modelos predictivos y futuros donde machine learning aprende de los datos que se obtiene de fuentes a traves tambien de imagenes y otras fuentes.
 Con scikit-learn es una libreria con modelos predictivos que aprende de datos etiquetados.
 Podemos predecir el modelo creando, entrenando y predeciendo la variable.
+
+Dia 16 Febrero 2023
+Estuvimos viendo en la clase folium y posiciones de cordeenadas de latitud y longitud. Es dificil entneder todo este apartado. Ejecutamos ejercicios de plataformas de la
+Nasa y aplicando a los dataframes de las plataformas de los cochetes y creacion de nuevas columnas con sus correspondientes datos y aplicando booleamos entre otras.
